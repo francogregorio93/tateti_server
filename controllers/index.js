@@ -1,0 +1,1 @@
+exports.tatetiController = require('./tatetiController.js')
